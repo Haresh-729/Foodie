@@ -1,4 +1,3 @@
 # Hello 
-You can see this project at https://haresh-729.github.io/Projects/
+You can check this project at [https://haresh-729.github.io/Projects/](https://hareshkurade.me/Foodie/)
 
-You acn also see a demo of this on https://youtu.be/DMlOf4edk8M
